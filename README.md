@@ -29,31 +29,79 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Types of angular event listener or Angular events list
 In the above example, we have learned the Angular click event. In native HTML or in Angular we have plenty numbers of options to add Angular event listener. Here we have listed some of the most popular and common Angular event listeners in Angular.
 
-Event name	Description
-(click):	The click event occurs when an element is clicked.
-(change):	The change event is triggered when change occurs on the binding elements, like select, Textarea, input, and other elements.
-(dblclick):	The double-click event occurs when an element is clicked two times.
-(blur):	The blur event fires when an element has lost focus. 
-(submit):	The submit event fire when clicking on the button or inputting with type submit.
-(focus):	The focus event fires when an element has received focus
-(scroll):	The scroll event fires when the document view has been scrolled.
-(keyup):	When a user presses and releases a key, an event occurs and is mostly used with input fields. It is one of the keyboard events.
-(keydown):	The keydown event is fired when a key is pressed. It is one of the keyboard events.
-(keypress):	 The keypress event is fired when a key that produces a character value is pressed down. It is one of the keyboard events.
-(mousedown):	The mousedown event is fired at an Element when a pointing device button is pressed while the pointer is inside the element and is a mouse event.
-(mouseup):	The mouseup event occurs when a user releases a mouse button over an element and is a mouse event.
-(mouseenter):	The mouseenter event occurs when the mouse pointer is moved onto an element and is a mouse event.
-(mouseleave):	The mouseleave event occurs when the mouse pointer is moved out of an element and is a mouse event.
-(mousemove):	The mousemove event occurs when the pointer is moving while it is over an element and is a mouse event.
-(mouseover):	The mouseover event occurs when the mouse pointer is over the selected element and is a mouse event.
-(mouseup):	The mouseup event occurs when a user releases a mouse button over an element and is a mouse event. 
-(copy):	The copy event occurs when the user copies the content of an element. 
-(paste):	The past event occurs when the user pastes the content of an element. 
-(cut):	The cut event occurs when the user cuts the content of an element. 
-(drag):	The drag event occurs when an element or text selection is being dragged
-(drop):	The drop event occurs when dragged data is dropped.
-(dragover):	The dragover event occurs when a draggable element or text selection is being dragged over a valid drop target. 
-(input):	The input event occurs when an element gets user input.
+Event name	&& Description
+
+(click):	
+The click event occurs when an element is clicked.
+
+(change):	
+The change event is triggered when change occurs on the binding elements, like select, Textarea, input, and other elements.
+
+(dblclick):	
+The double-click event occurs when an element is clicked two times.
+
+(blur):	
+The blur event fires when an element has lost focus. 
+
+(submit):	
+The submit event fire when clicking on the button or inputting with type submit.
+
+(focus):	
+The focus event fires when an element has received focus
+
+(scroll):	
+The scroll event fires when the document view has been scrolled.
+
+(keyup):	
+When a user presses and releases a key, an event occurs and is mostly used with input fields. It is one of the keyboard events.
+
+(keydown):	
+The keydown event is fired when a key is pressed. It is one of the keyboard events.
+
+(keypress):	 
+The keypress event is fired when a key that produces a character value is pressed down. It is one of the keyboard events.
+
+(mousedown):	
+The mousedown event is fired at an Element when a pointing device button is pressed while the pointer is inside the element and is a mouse event.
+
+(mouseup):	
+The mouseup event occurs when a user releases a mouse button over an element and is a mouse event.
+
+(mouseenter):	
+The mouseenter event occurs when the mouse pointer is moved onto an element and is a mouse event.
+
+(mouseleave):	
+The mouseleave event occurs when the mouse pointer is moved out of an element and is a mouse event.
+
+(mousemove):	
+The mousemove event occurs when the pointer is moving while it is over an element and is a mouse event.
+
+(mouseover):	
+The mouseover event occurs when the mouse pointer is over the selected element and is a mouse event.
+
+(mouseup):	
+The mouseup event occurs when a user releases a mouse button over an element and is a mouse event. 
+
+(copy):	
+The copy event occurs when the user copies the content of an element. 
+
+(paste):	
+The past event occurs when the user pastes the content of an element. 
+
+(cut):	
+The cut event occurs when the user cuts the content of an element. 
+
+(drag):	
+The drag event occurs when an element or text selection is being dragged
+
+(drop):	
+The drop event occurs when dragged data is dropped.
+
+(dragover):	
+The dragover event occurs when a draggable element or text selection is being dragged over a valid drop target. 
+
+(input):	
+The input event occurs when an element gets user input.
 
 Example:
 
